@@ -1,0 +1,55 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+	font-family: sans-serif;
+}
+
+article {
+	display: block;
+	margin: auto;
+	width: 100%;
+	max-width: 1000px
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 40px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+p {
+	display: block;
+	margin: auto;
+	width: 600px;
+}
+
+a {
+	text-align: center;
+}
+
+.flourish {
+	max-width: 50%;
+}
+
